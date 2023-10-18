@@ -1,16 +1,11 @@
 # Doom Emacs Config
 This is the readme.md for my personal Doom Emacs configuration file. 
 
-# "Exploring the Extensible and Customizable World of Doom Emacs with Lisp"
-Doom Emacs is a text editor and a fantastic tool for both programming and information management. 
-Preferences in emacs are managed through the Lisp programming language. 
-The level of customization through Lisp code it offers is truly remarkable, allowing me to tailor every aspect of my workflow to my liking.
-I have enjoyed learning Lisp while using emacs. 
+# Lisp code to customise Emacs 
+Doom Emacs is a text editor and a fantastic tool for both programming and information management. Preferences in emacs are managed through the Lisp programming language. The level of customization through Lisp code it offers is truly remarkable, allowing me to tailor every aspect of my workflow to my liking. I have enjoyed learning Lisp while using emacs.
 
-In Emacs, the possibilities are virtually limitless, and I've enjoyed experimenting with various configurations to create a setup that suits my needs perfectly.
-I used Doom emacs which allows further customisability over vanilla emacs, integrates a lot of features from the emacs community and speeds up emacs.
-However, I have recently transitioned to VS Code for my coding tasks, while I will continue to use Emacs exclusively for information management in Org Mode and Org Roam. 
-These features have not only enhanced my productivity but also simplified how I manage my tasks and documents.
+# Exploring the Extensible and Customizable World of Doom Emacs with Lisp
+In Emacs, the possibilities are virtually limitless, and I've enjoyed experimenting with various configurations to create a setup that suits my needs perfectly. I used Doom emacs which allows further customisability over vanilla emacs, integrates a lot of features from the emacs community and speeds up emacs. However, I have recently transitioned to VS Code for my coding tasks, while I will continue to use Emacs for information management in Org Mode and Org Roam. These features have not only enhanced my productivity but also simplified how I manage my tasks and documents.
 
 ## User Information
 user-full-name: Set to your full name.
